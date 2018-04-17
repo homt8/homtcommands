@@ -23,13 +23,13 @@ The privs part is a set  of privs for different levels of players. you can set t
 
 The levels are
 
-Owner/
-Admin/
-Moderator/
-Helper/
-VIP/
-Normal Player/
-Remove Privs
+Owner
+/Admin
+/Moderator
+/Helper
+/VIP
+/Normal Player
+/Remove Privs
 
 If you want the available commands do /homtprivs_commands
 Super admin is not in the list because it is reserved for above admin people but not all privs.
@@ -77,5 +77,5 @@ You need the addprivs_admin priv to place and destroy the teleporters.
 
 #Tip Staff/Licence
 
-Owner - homthack/
-licence - DWYWPL
+Owner - homthack
+/licence - DWYWPL
