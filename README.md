@@ -39,6 +39,10 @@ Super admin is not in the list because it is reserved for above admin people but
 
 Spawn is an easy way to set spawn locations. In the settings.txt file you can set the chat command and coordinates for the spawn locations.
 
+#Spawn_Commands
+
+This mods is available spawn and when what you want to use just need to see a new command to enter spawn typer /spawn, you have the command to set spawnpoint only for privs that is available spawn.
+
 #Spill
 
 The use of spill can be a privs so that water and lava have time with the dirt/objects wants conquest spill for water and lava to get normal.
@@ -74,6 +78,10 @@ Place a teleporter and a form opens. Name the teleporter and set the depth of th
 When you step into the teleporter you will teleport down. After 10 seconds you can use the teleporter again.
 
 You need the addprivs_admin priv to place and destroy the teleporters.
+
+#Watch
+
+A special mods and when you put it in watch you can only do a job with spectator_mode and some are watch-commands typer /watch <playername>, /unwatch <playername> only for privs that is available.
 
 #Tip Staff/Licence
 
