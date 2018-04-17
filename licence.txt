@@ -1,6 +1,6 @@
 DO WHAT YOU WANT TO PUBLIC LICENSE
 or abbreviated DWYWPL
-January 1nd 2015
+December 2nd 2015
 License Copyright (C) 2015 Michael Tomaino (PlatinumArts@gmail.com)
 www.sandboxgamemaker.com/DWYWPL/
 
