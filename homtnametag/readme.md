@@ -1,4 +1,5 @@
 #HomtNametag: A mod colors for Minetest!
+------------
 This mod allows players to set their nametag to a colour of their choice.
 
 #Usage and effects:
