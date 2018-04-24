@@ -1,4 +1,5 @@
-#HomtWatch
+#HomtWatch: A mods special for minetest
+-----------
 
 A mod for Minetest allowing you to watch other players in their 3rd person view.
 You're invisible and undetectable for the players when you're in this mode.
