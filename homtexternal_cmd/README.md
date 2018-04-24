@@ -1,4 +1,4 @@
-HomtExternal Cmd
+#HomtExternal Cmd
 ----------------
 This mod allows sending chat messages from outside minetest. Support for server commands is planned.
 The following command will send a chat message to all players on the server:
