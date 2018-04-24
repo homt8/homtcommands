@@ -143,7 +143,6 @@ minetest.register_chatcommand("addprivs_mod", {
 			privs.basic_privs=true
 			privs.kick=true
 			privs.ban=true
-			privs.worldedit=true
 			privs.areas=true
 			privs.areas_high_limit=true
 			privs.protection_bypass=true
