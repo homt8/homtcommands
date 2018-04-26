@@ -39,7 +39,7 @@ Super admin is not in the list because it is reserved for above admin people but
 
 Spawn is an easy way to set spawn locations. In the settings.txt file you can set the chat command and coordinates for the spawn locations.
 
-#Spawn_Commands
+#Spawn_Cmd
 
 This mods is available spawn and when what you want to use just need to see a new command to enter spawn typer /spawn, you have the command to set spawnpoint only for privs that is available spawn.
 
