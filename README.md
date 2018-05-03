@@ -43,10 +43,6 @@ Spawn is an easy way to set spawn locations. In the settings.txt file you can se
 
 This mods is available spawn and when what you want to use just need to see a new command to enter spawn typer /spawn, you have the command to set spawnpoint only for privs that is available spawn.
 
-#Spill
-
-The use of spill can be a privs so that water and lava have time with the dirt/objects wants conquest spill for water and lava to get normal.
-
 #Extras
 
 Extras are extra neat things that  i would like to see on servers. right now there is only one extra but I plan on adding more.
