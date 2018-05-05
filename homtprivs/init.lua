@@ -60,7 +60,6 @@ minetest.register_chatcommand("addprivs_owner", {
 			privs.homtprivs_admin=true
 			privs.usertv=true
 			privs.jail=true
-			privs.spill=true
 			privs.spawn=true
 			privs.debug=true
 			privs.zoom=true
@@ -109,7 +108,6 @@ minetest.register_chatcommand("addprivs_admin", {
 			privs.homtprivs_admin=true
 			privs.usertv=true
 			privs.jail=true
-			privs.spill=true
 			privs.spawn=true
 			privs.debug=true
 			privs.zoom=true
@@ -153,7 +151,6 @@ minetest.register_chatcommand("addprivs_mod", {
 			privs.homtprivs=true
 			privs.usertv=true
 			privs.jail=true
-			privs.spill=true
 			privs.spawn=true
 			privs.zoom=true
 			privs.watch=true
@@ -187,8 +184,6 @@ minetest.register_chatcommand("addprivs_helper", {
 			privs.areas_high_limit=true
 			privs.homtnametag=true
 			privs.usertv=true
-			privs.jail=true
-			privs.spill=true
 			privs.spawn=true
 			privs.zoom=true
 			minetest.set_player_privs(param,privs)
@@ -213,9 +208,7 @@ minetest.register_chatcommand("addprivs_vip", {
 			privs.fly=true
 			privs.noclip=true
 			privs.settime=true
-			privs.teleport=true
 			privs.creative=true
-			privs.areas_high_limit=true
 			privs.usertv=true
 			privs.spawn=true
 			minetest.set_player_privs(param,privs)
